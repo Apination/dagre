@@ -1,6 +1,6 @@
 {
   "name": "dagre",
-  "version": "0.8",
+  "version": "0.8.0",
   "description": "Graph layout for JavaScript",
   "author": "Chris Pettitt <cpettitt@gmail.com>",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "layout"
   ],
   "dependencies": {
-    "graphlib": "https://github.com/graymur/graphlib",
+    "graphlib": "https://github.com/graymur/graphlib#v2.2.1",
     "lodash": "^4.17.4"
   },
   "devDependencies": {
